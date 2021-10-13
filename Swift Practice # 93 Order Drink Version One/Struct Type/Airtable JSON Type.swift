@@ -38,3 +38,6 @@ struct DrinkDetails: Codable {      //Airtable第三層
     let sugarType: String
     let totalPrice: Int
 }
+
+
+
